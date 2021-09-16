@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports,travel,cars,programming.
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me:e-mail sivakov.evgeniy@gmail.com
+- 📫 How to reach me:e-mail sivakov.evgeniy@gmail.com. 
 
 <!---
 SivakovEvgeniy25/SivakovEvgeniy25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
