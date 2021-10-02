@@ -10,10 +10,8 @@
     <h1>Evgene Sivakov</h1>
     <h1><a href="rsschool-cv">rsschool-cv</a></h1>
     <body>
-    <img src="https://cvws.icloud-content.com/B/AQcdxSgOn1E03m1Dkyq0R-9PpA6AAcTwtj3uF_Z73AoFdrpCeIRM-fpr/
-    Evgene.jpeg?o=Aj2coKLCa0HGBUSNEhjhl49vgwpeuJFH5Rbi7_FC7sku&v=1&x=3&a=CAogN_QyWWDdW8wvb0V1FV6gk-wDQEdu_X7bvJdvkGxNCh0SbRCciZvMvi8YvIDSzL4vIgEAUgRPpA6AWgRM-fpraiZ3MqFmQs7FJcUk9vSE7UaOuEARYTpu6tzJEhDRWRO8_ZUOEjtjk3ImJ0OCc6-0bpmns3mfgsezXHk8zY_7cYyGQccmpAcxHLQ3vROCb4I&e
-    =1631711428&fl=&r=58dfcbb1-d16f-488e-9d66-706765c5f242-1&k=wDWVx6OKr2HxRNgAJ8aCPg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=41&s=Ja0DjVnI9dMeTU_RgiTnGCC_9vA&cd=i"
-         alt="Evgene" width="350" height="300">
+    <img src='https://lh3.googleusercontent.com/ogw/ADea4I6tuz_njs0jOgERbwv6Nr2TUM8ltfbtmSWALzXfUQ=s192-c-mo'
+     alt="Evgene" width="350" height="300">
     
         <ul>
             <li><strong>Phone:</strong> +375 29 654 09 43</li>
@@ -42,7 +40,25 @@
                      <li><a href="https://www.udemy.com/course/webdeveloper/">HTML/CSS</a></li>
                      <li><a href="https://www.udemy.com/course/javascript_full/">JavaScript (in process…)</a></li>
                  </ul>
-    
+       <h2>  May First Code </h2>
+                     <div class="cv-text">
+                       <p>education Javascript</p>
+                            <pre class="cv">
+              <code>
+               const reverse = (str) => {
+  let i = str.length - 1;
+  let result = "";
+  while (i >= 0) {
+    result = `${result}${str[i]}`;
+    i = i - 1;
+  }
+  return result;
+};
+export default reverse;
+
+
+              </code>
+            </pre>
                    <h1 id="languages">Languages</h1>
     
                  <ul>
