@@ -1,0 +1,28 @@
+.Profile {
+    width: 100%;
+    height: 100vh;
+    padding: 100px 0 0 200px;
+
+    &__logo{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        background-color: rgb(206, 187, 187);        
+        margin-right: 250px;
+    }
+
+    &__wrapper{
+        display: flex;
+        align-items: center;
+    }
+
+    &__userName{
+        font-weight: 700;      
+        margin-right: 55px;
+    }
+
+    &__button{
+        cursor: pointer;
+    }
+
+}

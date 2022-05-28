@@ -1,0 +1,50 @@
+.Main{
+    width: 100%;
+    height: 100vh;   
+    display: flex;
+    padding-top: 100px;
+
+    &__recomendation{
+        width: 100%;
+        height: 100vh;
+        background-color:rgba(214, 214, 214, 0.2);
+        position: fixed;
+        top: 55px;
+        z-index: 30;
+        right:0;
+        left:45.7%;
+        padding: 100px 0 0 50px;
+    }
+
+    &__wrapper{
+        padding-left: 200px;
+    }
+     &__header{
+         display: flex;
+         align-items: center;
+     }
+
+    &__userLogo{
+        width: 32px;
+        height: 32px;
+        background-color: black;
+        border-radius: 50%;
+        margin-right: 30px; 
+    }
+    &__userDate{
+        margin-right: 60px;
+    }
+    &__userName{
+        font-weight: 700;
+    }
+
+    &__reloc{
+        color: rgba(61,162,235,1);
+        cursor: pointer;
+
+        &:hover{
+            opacity:0.7;
+        }
+    }
+}
+   
