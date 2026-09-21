@@ -14,7 +14,7 @@
      alt="Evgene" width="350" height="300">
     
         <ul>
-            <li><strong>Phone:</strong> +375 29 654 09 43</li>
+            <li><strong>Phone:</strong> +48690177054</li>
             <li><strong>E-mail:</strong> <a href="sivakov.evgeniy@gamil.com">sivakov.evgeniy@gamil.com</a></li>
             <li><strong>GitHub:</strong> <a href="https://github.com/SivakovEvgeniy25">SivakovEvgeniy25</a></li>
             <li><strong>Telegram</strong> <a href="https://t.me/sivakov evgeniy">Sivakov Evgeniy</a></li>
@@ -26,7 +26,7 @@
                 font: italic bold 24px Arial  sans-serif ;
             }
            </style>
-           <p class="italic-type">I am 52 years old, I work as a lawyer. But I would like to try myself in iT field.I really like this job and I would like to continue to study and work in this industry.</p>
+           <p class="italic-type">I would like to try myself in iT field.I really like this job and I would like to continue to study and work in this industry.</p>
                  <ul>
                    <h2><strong>My strengths:</strong></h2>
     
@@ -43,7 +43,9 @@
        <h2>  May First Code </h2>
                      <div class="cv-text">
                        <p>education Javascript</p>
-                            <pre class="cv">
+                       <p>education IA </p>
+                       <p>education React</p>
+                       <pre class="cv">
               <code>
                const reverse = (str) => {
   let i = str.length - 1;
@@ -63,7 +65,8 @@ export default reverse;
     
                  <ul>
                    <li><strong>Russian</strong> - native speaker.</li>
-                   <li><strong>English</strong> - A1 </li>
+                   <li><strong>English</strong> - B1 </li>
+                   <li><strong>Polish</strong> - B2 </li>
                  </ul>
     
     </body>
